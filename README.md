@@ -95,13 +95,11 @@ When it comes to lessons, the first lesson that we learned was learning how to b
 ## Next Steps/Future Plan
 For our next steps or future plan, we plan to add more features like recommending by main ingredient or recommending similar recipes based on the same/new criteria. We also want to build a console to display the results using a webpage or TKinter. We were able to begin creating a starting interface, but we found it challenging to integrate the interface with our queries and with the remaining time we had left. We would also like to learn and use Cosine Similarity for the recommender system because we think this could help in recommending similar recipes based on ingredients. And finally, although we didn’t have enough time to review and implement some suggestions from our peer reviews of the proposal for this project, we hope to incorporate them in the future. One great idea was using a Python library called Fuzzywuzzy, which would help eliminate the issue with spelling mistakes in the user input. 
 
-Works Cited 
+### Works Cited 
 Using the Raw Recipe csv: RAW_recipes.csv
-https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions?resource=download 
-
-https://towardsdatascience.com/named-entity-recognition-ner-using-spacy-nlp-part-4-28da2ece57c6
-
-https://whoosh.readthedocs.io/en/latest/intro.html
+- https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions?resource=download 
+- https://towardsdatascience.com/named-entity-recognition-ner-using-spacy-nlp-part-4-28da2ece57c6
+- https://whoosh.readthedocs.io/en/latest/intro.html
 
 
 
