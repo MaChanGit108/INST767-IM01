@@ -3,7 +3,7 @@ Big Data Infrastructure Group Project
 
 Members: Matthew Chan and Ujwal Gupta
 
-Google Drive Link: https://drive.google.com/drive/folders/1VLTDFLBGpHKMQrLtpcL5TEElze0EMNvs?usp=drive_link
+Google Drive Link: https://drive.google.com/drive/folders/1VLTDFLBGpHKMQrLtpcL5TEElze0EMNvs?usp=sharing
 
 # Recipe Recommender System
 
